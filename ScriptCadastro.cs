@@ -72,10 +72,10 @@ public class Program
 					Console.ReadKey();
 				break;	
 					
-		}
-					
 			}
+					
 		}
+	}
 		
 		static void CadastrarPessoas(List<Pessoa> pessoas)
 		{
