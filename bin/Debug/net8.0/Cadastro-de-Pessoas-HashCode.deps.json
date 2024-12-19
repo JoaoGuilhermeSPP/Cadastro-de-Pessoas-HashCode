@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cadastro-de-Pessoas-HashCode/1.0.0": {
+        "runtime": {
+          "Cadastro-de-Pessoas-HashCode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cadastro-de-Pessoas-HashCode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
