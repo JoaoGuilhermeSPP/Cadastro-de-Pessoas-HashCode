@@ -45,10 +45,10 @@ class Program
 		Console.WriteLine("Cadastro de Pessoas / Código Hash");
 		bool continuar = true;
 	
-		while(continuar)
+		while(continuar) 
 		{
 			Console.Clear();
-			Console.WriteLine(" 1 - Cadastrar pessoas");
+			Console.WriteLine("1 - Cadastrar pessoas");
 			Console.WriteLine("2 - Ver cadastros");
 			Console.WriteLine("3 - excluir cadastros");
 			Console.WriteLine("4 - Sair");

@@ -1,0 +1,15 @@
+/workspaces/Cadastro-de-Pessoas-HashCode/obj/Debug/net8.0/Cadastro-de-Pessoas-HashCode.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Cadastro-de-Pessoas-HashCode/obj/Debug/net8.0/Cadastro-de-Pessoas-HashCode.AssemblyInfoInputs.cache
+/workspaces/Cadastro-de-Pessoas-HashCode/obj/Debug/net8.0/Cadastro-de-Pessoas-HashCode.AssemblyInfo.cs
+/workspaces/Cadastro-de-Pessoas-HashCode/obj/Debug/net8.0/Cadastro-de-Pessoas-HashCode.csproj.CoreCompileInputs.cache
+/workspaces/Cadastro-de-Pessoas-HashCode/obj/Debug/net8.0/Cadastro-de-Pessoas-HashCode.sourcelink.json
+/workspaces/Cadastro-de-Pessoas-HashCode/bin/Debug/net8.0/Cadastro-de-Pessoas-HashCode
+/workspaces/Cadastro-de-Pessoas-HashCode/bin/Debug/net8.0/Cadastro-de-Pessoas-HashCode.deps.json
+/workspaces/Cadastro-de-Pessoas-HashCode/bin/Debug/net8.0/Cadastro-de-Pessoas-HashCode.runtimeconfig.json
+/workspaces/Cadastro-de-Pessoas-HashCode/bin/Debug/net8.0/Cadastro-de-Pessoas-HashCode.dll
+/workspaces/Cadastro-de-Pessoas-HashCode/bin/Debug/net8.0/Cadastro-de-Pessoas-HashCode.pdb
+/workspaces/Cadastro-de-Pessoas-HashCode/obj/Debug/net8.0/Cadastro-de-Pessoas-HashCode.dll
+/workspaces/Cadastro-de-Pessoas-HashCode/obj/Debug/net8.0/refint/Cadastro-de-Pessoas-HashCode.dll
+/workspaces/Cadastro-de-Pessoas-HashCode/obj/Debug/net8.0/Cadastro-de-Pessoas-HashCode.pdb
+/workspaces/Cadastro-de-Pessoas-HashCode/obj/Debug/net8.0/Cadastro-de-Pessoas-HashCode.genruntimeconfig.cache
+/workspaces/Cadastro-de-Pessoas-HashCode/obj/Debug/net8.0/ref/Cadastro-de-Pessoas-HashCode.dll
